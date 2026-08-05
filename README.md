@@ -45,6 +45,10 @@ Both the Decision Tree and the neural network performed similarly to one another
 
 It is important to note that because the neural network did not have a fixed random seed, it outputs different results each time the model is run. Incorporating a fixed seed, along with addressing class imbalance and including additional features in the dataset, are key areas for future improvements.
 
+Below is an image of the summary table that displays the accuracy and F1 scores of both models:
+
+<img src = "ml_models_summary_table.png" alt = "Summary table comparing scores between the Decision Tree and neural network" height = 100>
+
 ### 🖱️ Getting Started
 1. Clone the repository. See this [guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for help.
 2. Load up the repo in your preferred IDE or in a Jupyter Notebook environment.
