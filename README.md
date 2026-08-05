@@ -9,7 +9,7 @@ The NYC Airbnb listings data is located in `airbnbListingsData.csv`. It contains
 
 The target variable `price_category` is a binary feature that classifies each listing as either low priced or high priced. Listings at or above the 75th percentile of all prices are labeled as `high price`, while the listings below the 75th percentile are labeled as `low price`.
 
-> This dataset was modified by Break Through Tech for its Machine Learning Foundations course. The original dataset is available on Kaggle: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
+> This dataset was modified by Break Through Tech for its Machine Learning Foundations course. The original dataset is available on Kaggle [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
 
 ### 🧪 Methods Used
 * Exploratory Data Analysis
