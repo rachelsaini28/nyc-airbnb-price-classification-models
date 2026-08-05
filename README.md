@@ -48,6 +48,9 @@ It is important to note that because the neural network did not have a fixed ran
 ### 🖱️ Getting Started
 1. Clone the repository. See this [guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for help.
 2. Load up the repo in your preferred IDE or in a Jupyter Notebook environment.
-3. The notebook containing all code and analysis is in  `nyc_airbnb_dt_vs_nn.ipynb`, while the Airbnb dataset is located in `airbnbListingsData.csv`.
-4. Before running each cell, ensure you are using version `3.11` of Python as the project was developed and tested in this version.
-5. Ensure you have installed all required dependencies from `requirements.txt` before running the notebook.
+3. Create and activate a Python virtual environment. Use version `3.11` of Python as the project was developed and tested in this version.
+4. Make sure you have installed all required dependencies from `requirements.txt` before running the notebook.
+   * Run `pip install -r requirements.txt`
+5. Open `nyc_airbnb_dt_vs_nn.ipynb` and run the notebook. The dataset is located in `airbnbListingsData.csv`.  
+
+The notebook contains the complete workflow from loading and exploring the dataset to evaluating and comparing the machine learning models.
